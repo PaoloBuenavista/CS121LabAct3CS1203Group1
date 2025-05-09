@@ -1,12 +1,14 @@
 # CS 121 CS 1203 Group 1
-## A lab activity in ***Python***.
+
 ## submitted by:
 |Name|Username|
 |----|--------|
-|Buenavista, Christian Paolo|[username](https://github.com/PaoloBuenavista)|
-|Fanoga, Haidie|[username]()|
-|Hepuller, Kate Nicole|[username]()|
-|Mortel, Cindy Pauleen|[username]()|
+|Buenavista, Christian Paolo|[Github Link](https://github.com/PaoloBuenavista)|
+|Fanoga, Haidie|[Github Link](https://github.com/Haidonuts)|
+|Hepuller, Kate Nicole|[Github Link](https://github.com/Hepuller01)|
+|Mortel, Cindy Pauleen|[Github Link](https://github.com/cindymortel)|
+
+A lab activity in ***Python***.
 ```python
 def status(is_tuned):
     return "Tuned" if is_tuned else "Untuned"
