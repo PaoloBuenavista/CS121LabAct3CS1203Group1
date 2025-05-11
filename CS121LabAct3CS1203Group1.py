@@ -66,7 +66,7 @@ class Guitar(Musical_Instrument):
         self.third_string = third_string
         self.fourth_string = fourth_string
         self.fifth_string = fifth_string
-        self.sixth_string = sixth_String
+        self.sixth_string = sixth_string
 
         
     def get_sound_range(self):
