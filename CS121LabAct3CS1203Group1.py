@@ -59,7 +59,7 @@ class Musical_Instrument(ABC):
         pass
 
 class Guitar(Musical_Instrument):
-    def __init__ (self,type,brand,first_string,second_string,third_string,fourth_string,fifth_string,sixth_String):
+    def __init__ (self,type,brand,first_string,second_string,third_string,fourth_string,fifth_string,sixth_string):
         super().__init__(type,brand)
         self.first_string = first_string
         self.second_string = second_string
